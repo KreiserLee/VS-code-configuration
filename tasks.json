@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "command": "cmd",
+    "args": ["/c"],
+    "isShellCommand": true,
+    "showOutput": "always",
+    "suppressTaskName": true,
+    "tasks": [
+        {
+            "taskName": "make",
+            "args": ["make"]
+        },
+        {
+            "taskName": "fileName",
+            "args": ["echo ${fileBasename}"]
+        },
+        {
+            "taskName": "python",
+            "args": ["python ${fileBasename}"]
+        }
+    ]
+}
