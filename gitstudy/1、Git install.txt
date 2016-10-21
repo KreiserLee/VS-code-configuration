@@ -1,0 +1,14 @@
+教程地址：https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git
+
+Linux安装：
+sudo yum install git 或者 sudo apt-get install git
+
+Mac安装：
+二进制安装程序：http://git-scm.com/download/mac
+Github for mac 中附带git安装： http://mac.github.com
+
+Windows安装：
+安装文件：http://git-scm.com/download/win
+GitHub for Windows（推荐）: http://windows.github.com
+
+下载源码编译安装，见 https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git
